@@ -24,7 +24,7 @@ const SecretNote = () => {
                 >
                     <div className="flex items-center justify-center gap-2">
                         <Heart className="w-6 h-6 text-primary animate-pulse" />
-                        <h1 className="text-2xl font-bold gradient-text">A Note...</h1>
+                        <h1 className="text-2xl font-bold gradient-text">Note from the developer...</h1>
                         <Sparkles className="w-6 h-6 text-accent animate-pulse" />
                     </div>
                 </motion.div>
@@ -54,7 +54,7 @@ const SecretNote = () => {
                         </p>
 
                         <p className="text-base md:text-lg font-semibold text-primary">
-                            I know sometimes when you're low, you don't feel like talking to anyone. Bas overthinking hi krti rehti hogi, sad hoti rehti hogi
+                            I know sometimes when you're low, you don't feel like talking to anyone. Bas overthinking hi krti rehti hogi, sad hoti rehti hogi, and its okay to be sad, but dont lose hope uk, it's the only thing that keep us going and sane...better things are on the way... 
                         </p>
 
                         <p className="text-base md:text-lg">
